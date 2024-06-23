@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background: #7e8081;
+    height: 90px;
+    width: 100%;
+}
+
+label.logo{
+    color: antiquewhite;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 25px;
+    font-weight: bold;
+    text-shadow: -10px 3px 3px black;
+    position: relative;
+}
+
+.logo::before,
+.logo::after{
+    content: '';
+    position: absolute;
+    left: 0px;
+    width: 92%;
+    height: 1px;
+    border-top: 3px solid rgb(42, 88, 98);
+    background-color: black;
+    transform: translateX(-100%);
+}
+
+.logo::before{
+    top: 0px;
+}
+
+.logo::after{
+    bottom: 0px;
+}
+
+@keyframes slideIn{
+    from{
+        transform: translateY(-100%);
+    }
+    to{
+        transform: translateY(0%);
+    }
+}
+
+.logo:hover::before,
+.logo:hover::after{
+    animation: slideIn 0.3s ease forwards;
+    left: 20px;
+    bottom: -10px;
+}
+
+   
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-flex;
+    line-height: 80px;
+    margin:0px 40px 20px 30px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 15px;
+    padding: 3px 3px ;
+    border-radius: 3px;
+    text-transform: uppercase;
+    
+}
+
+nav ul li a span{
+    background-color: transparent;
+    transition: background-color 0.5s;
+    padding: 3px 3px ;
+    border-radius: 3px;
+}
+
+a.Atags,a:hover span{
+    background-color: rgb(157, 141, 121);
+    transition: 1s;
+    
+
+}
+
+
+
