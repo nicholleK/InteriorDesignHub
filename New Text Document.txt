@@ -10,6 +10,13 @@ input-files:
 -intro.md
 -usecases.md
 
+output files:
+output.pdf
+
+metadata:
+
+
+
 
 ----Intro.md--------
 #Introduction
