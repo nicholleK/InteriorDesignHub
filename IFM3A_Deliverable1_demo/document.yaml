@@ -2,8 +2,8 @@
 #   name: Child Enrolment System
 
 input-files:
-  - source: intro.md
-  - source: usecases.md
+  - intro.md
+  - usecases.md
 
 output-files: IFM_demo.pdf
 
