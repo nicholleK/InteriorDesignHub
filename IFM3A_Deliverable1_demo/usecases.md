@@ -1,4 +1,4 @@
-![Result](images/IFM_demo.drawio.png)
+![Result](images/IFM_demo.drawio.png){width=80%}
 
 ### Registration Use Case : This is a registration use case
 
