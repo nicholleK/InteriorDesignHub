@@ -10,6 +10,7 @@ output-files: IFM_demo.pdf
 metadata:
   author: Nicole Kurwa
   date: 2025/02/24
+  cover-image: images\CHILD ENROLMENT SYSTEM.png
 
 theme:
   headings:
@@ -18,6 +19,3 @@ theme:
   text:
     font-family: Lora
     color: "#E195AB"
-
-cover:
-  logo: images\CHILD ENROLMENT SYSTEM.png
