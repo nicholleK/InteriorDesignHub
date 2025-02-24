@@ -9,7 +9,8 @@ output-files: IFM_demo.pdf
 
 metadata:
   author: Nicole Kurwa
-  date: 2025/02/24
+  date: "2025/02/24"
+  cover-image: images/CHILD ENROLMENT SYSTEM.png
 
 theme:
   headings:
