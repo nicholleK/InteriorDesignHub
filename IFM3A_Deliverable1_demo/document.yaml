@@ -7,14 +7,14 @@ input-files:
 
 output-files: IFM_demo.pdf
 
-metadata:
-  author: Nicole Kurwa
-  toc: true
+# metadata:
+#   author: Nicole Kurwa
+#   toc: true
 
 theme:
   headings:
-    # font-family: Montserrat
+    font-family: Montserrat
     color: "#B6CBBD"
   text:
-    # font-family: Lora
+    font-family: Lora
     color: "#E195AB"
