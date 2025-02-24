@@ -1,5 +1,5 @@
-project:
-  name: Child Enrolment System
+# project:
+#   name: Child Enrolment System
 
 input-files:
   - source: intro.md
@@ -9,6 +9,7 @@ output-files: IFM_demo.pdf
 
 metadata:
   author: Nicole Kurwa
+  toc: true
 
 theme:
   headings:
