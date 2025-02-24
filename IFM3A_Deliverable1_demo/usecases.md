@@ -1,4 +1,4 @@
-![](images/IFM_demo.drawio.svg)
+![Result](images/IFM_demo.drawio.png)
 
 ### Registration Use Case : This is a registration use case
 
