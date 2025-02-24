@@ -1,0 +1,23 @@
+project:
+  name: Child Enrolment System
+
+content:
+  - source: intro.md
+  - source: usecases.md
+
+output-files: IFM_demo.pdf
+
+metadata:
+  author: Nicole Kurwa
+  date: 2025/02/24
+
+theme:
+  headings:
+    font-family: Montserrat
+    color: "#B6CBBD"
+  text:
+    font-family: Lora
+    color: "#E195AB"
+
+cover:
+  logo: images\CHILD ENROLMENT SYSTEM.png
