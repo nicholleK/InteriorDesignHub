@@ -5,7 +5,7 @@ input-files:
   - intro.md
   - usecases.md
 
-output-files: IFM_demo.pdf
+output files: IFM_demo.pdf
 
 metadata:
   author: Nicole Kurwa
