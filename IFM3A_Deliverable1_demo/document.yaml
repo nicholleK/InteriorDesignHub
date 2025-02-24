@@ -1,9 +1,9 @@
-project:
-  name: Child Enrolment System
+# project:
+#   name: Child Enrolment System
 
-# input-files:
-#   - source: intro.md
-#   - source: usecases.md
+input-files:
+  - source: intro.md
+  - source: usecases.md
 
 # output-files: IFM_demo.pdf
 
