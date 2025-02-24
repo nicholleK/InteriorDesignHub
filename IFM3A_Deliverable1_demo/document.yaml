@@ -1,5 +1,5 @@
-# project:
-#   name: Child Enrolment System
+project:
+  name: Child Enrolment System
 
 input-files:
   - source: intro.md
@@ -13,8 +13,8 @@ metadata:
 
 theme:
   headings:
-    font-family: Montserrat
+    # font-family: Montserrat
     color: "#B6CBBD"
   text:
-    font-family: Lora
+    # font-family: Lora
     color: "#E195AB"
